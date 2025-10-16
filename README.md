@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm David Camilo Ordoñez Marín  
+# Hi! I'm David Camilo Ordoñez Marín  
 
 💻 **Junior Software Developer** | 🌎 **Cali, Colombia**  
 📧 [davidbetoven05@gmail.com](mailto:davidbetoven05@gmail.com)  
@@ -34,28 +34,6 @@ I enjoy learning new technologies, working on innovative projects, and contribut
 
 ---
 
-## 💼 Professional Experience  
-
-### 🧩 **Systems Intern — Tecnacon (Yumbo, Colombia)**  
-*Sept 2024 – May 2025*  
-- Developed and maintained internal web applications.  
-- Provided technical support and preventive/corrective maintenance for IT equipment.  
-- Managed corporate email accounts and specialized access-control software.  
-- Supervised PoE camera systems and networked access devices.  
-
-### 🤖 **Data Processing Assistant — El Gran Langostino S.A.**  
-*Jun 2024 – Jul 2025*  
-- Created **Python and Selenium bots** to automate invoice data extraction from PDFs.  
-- Integrated Excel for automatic report generation.  
-- Implemented data validation and error-control workflows.  
-
-### 🧑‍🏫 **Academic Assistant — Universidad del Valle**  
-*Aug 2022 – Dec 2022*  
-- Tutored students in **Python programming**.  
-- Supported projects involving **data manipulation and visualization** in collaborative environments (Google Colab).  
-
----
-
 ## 🏆 Key Achievements  
 
 - 🚀 Boosted data-processing speed through automation scripts.  
@@ -68,8 +46,7 @@ I enjoy learning new technologies, working on innovative projects, and contribut
 ## 🌱 Currently Learning  
 
 - **Next.js** and performance optimization  
-- **RESTful API integration**  
-- **UI/UX design** with React and TailwindCSS  
+- **UI/UX design**  
 
 ---
 
