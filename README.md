@@ -61,4 +61,4 @@ I enjoy learning new technologies, working on innovative projects, and contribut
 
 ---
 
-⭐ *“The best way to learn is by building, breaking, and improving every single day.”*  
+**The best way to learn is by building, breaking, and improving every single day.**
