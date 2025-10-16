@@ -58,7 +58,6 @@ I enjoy learning new technologies, working on innovative projects, and contribut
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-2025--porfolio--seven.vercel.app-blue)](https://2025-porfolio-seven.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  
 
 ---
 
