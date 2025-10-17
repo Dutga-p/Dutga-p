@@ -1,12 +1,12 @@
 # Hi! I'm David Camilo Ordoñez Marín 
 
 
-🌐 This profile is also available in:  
+This profile is also available in:  
 🇪🇸 [Español](./README.es.md)
 
-💻 **Junior Software Developer** | 🌎 **Cali, Colombia**  
-📧 [davidbetoven05@gmail.com](mailto:davidbetoven05@gmail.com)  
-🌐 [My Portfolio](https://2025-porfolio-seven.vercel.app/)  
+**Junior Software Developer** | 🌎 **Cali, Colombia**  
+[davidbetoven05@gmail.com](mailto:davidbetoven05@gmail.com)  
+[My Portfolio](https://2025-porfolio-seven.vercel.app/)  
 
 ---
 
