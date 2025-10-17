@@ -2,7 +2,7 @@
 
 
 This profile is also available in:  
-🇪🇸 [Español](./README.es.md)
+🇪🇸 [Spanish](./README.es.md)
 
 **Junior Software Developer** | 🌎 **Cali, Colombia**  
 [davidbetoven05@gmail.com](mailto:davidbetoven05@gmail.com)  
