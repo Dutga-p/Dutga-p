@@ -1,7 +1,7 @@
 #¡Hola! Soy David Camilo Ordoñez Marín  
 
 Este perfil también está disponible en:  
-🇬🇧 [English](./README.md)
+EN [Inglés](./README.md)
 
 **Desarrollador de Software Junior** | 🌎 **Cali, Colombia**  
 [davidbetoven05@gmail.com](mailto:davidbetoven05@gmail.com)  
