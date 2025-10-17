@@ -9,7 +9,7 @@ EN [Inglés](./README.md)
 
 ---
 
-##Sobre Mí  
+## Sobre Mí  
 
 Soy un **desarrollador de software** con experiencia en **desarrollo web, automatización y procesamiento de datos**.  
 Actualmente finalizando mi carrera en **Desarrollo de Software** en la *Universidad del Valle (Cali, Colombia)*, me apasiona crear soluciones inteligentes que mejoren la eficiencia y la experiencia del usuario.  
@@ -18,9 +18,9 @@ Disfruto aprender nuevas tecnologías, trabajar en proyectos innovadores y colab
 
 ---
 
-##Habilidades  
+## Habilidades  
 
-###Lenguajes  
+### Lenguajes  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,7 +29,7 @@ Disfruto aprender nuevas tecnologías, trabajar en proyectos innovadores y colab
 
 ---
 
-###Frameworks y Librerías  
+### Frameworks y Librerías  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -38,14 +38,14 @@ Disfruto aprender nuevas tecnologías, trabajar en proyectos innovadores y colab
 
 ---
 
-###Bases de Datos  
+### Bases de Datos  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-###Herramientas y Tecnologías  
+### Herramientas y Tecnologías  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -54,14 +54,14 @@ Disfruto aprender nuevas tecnologías, trabajar en proyectos innovadores y colab
 
 ---
 
-##Actualmente Aprendiendo  
+## Actualmente Aprendiendo  
 
 - **Next.js** y optimización de rendimiento  
 - **Diseño UI/UX**  
 
 ---
 
-##Conectemos  
+## Conectemos  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![Portafolio](https://img.shields.io/badge/🌐%20Portafolio-2025--porfolio--seven.vercel.app-blue)](https://2025-porfolio-seven.vercel.app/)  
