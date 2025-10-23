@@ -58,6 +58,7 @@ Disfruto aprender nuevas tecnologías, trabajar en proyectos innovadores y colab
 
 - **Next.js** y optimización de rendimiento  
 - **Diseño UI/UX**  
+- **PHP - Symfony**  
 
 ---
 
