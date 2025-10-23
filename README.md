@@ -55,6 +55,7 @@ I enjoy learning new technologies, working on innovative projects, and contribut
 
 - **Next.js** and performance optimization  
 - **UI/UX design**  
+- **PHP - Symfony*  
 
 ---
 
